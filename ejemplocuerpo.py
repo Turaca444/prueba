@@ -3,6 +3,9 @@
 import mediapipe as mp
 import numpy as np
 
+
+#Modificacion de archivo
+
 # initialize mediapipe pose solution
 mp_pose = mp.solutions.pose
 mp_draw = mp.solutions.drawing_utils
